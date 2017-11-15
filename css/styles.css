@@ -1,0 +1,10 @@
+body {
+  background-color: #8de8cc;
+}
+
+.column {
+  float: left;
+  width: 47%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
